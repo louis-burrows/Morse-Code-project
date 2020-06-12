@@ -1,0 +1,39 @@
+* {
+  margin: 0;
+  border: 0;
+  box-sizing: border-box;
+}
+
+body {
+
+  h1 {
+    color: lightseagreen;
+  }
+
+  p {
+
+    &#intro {
+      color: blue;
+
+    }
+
+    &#output {
+      color: darkmagenta;
+    }
+
+  }
+
+  textarea {
+    border: 2px solid lightblue;
+    width: 400px;
+    height: 100px;
+  }
+
+  button {
+    background-color: rgb(202, 202, 130);
+    border: 1px solid mediumblue;
+    padding: 5px;
+  }
+
+
+}
